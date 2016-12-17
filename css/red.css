@@ -1,0 +1,61 @@
+/* Color Style */
+
+::selection { background-color: #f54f36; }
+
+a { color: #f54f36; }
+
+#show-header { background-color: #f54f36; }
+
+.main-menu li a:hover, .main-menu li.current a { color: #f54f36; }
+
+.main-menu li.current a, .main-menu li:hover a { border-left: 3px solid #f54f36; }
+
+.header-bottom .social-icons a:hover i { border-color: #F54F36; color: #F54F36; }
+
+span.label { background-color: #f54f36; }
+
+.section-overlay { background-color: #F54F36; }
+
+.pace .pace-progress { background-color: #f54f36; }
+
+.btn { color: #f54f36; }
+
+.mini-btn, .small-btn, .medium-btn, .large-btn { border-color: #f54f36; }
+
+.btn:hover { border-color: #f54f36; box-shadow: inset 0px -50px 0 #f54f36; -moz-box-shadow: inset 0px -50px 0 #f54f36; -webkit-box-shadow: inset 0px -50px 0 #f54f36; }
+
+.light-btn:hover, .light-btn:hover i { color: #f54f36!important; }
+
+i.fa { color: #f54f36; }
+
+i.small-icon. i.medium-icon, i.large-icon { color: #f54f36; border-color: #f54f36; }
+
+.next-section i.fa { color: #F54F36; }
+
+.service-box i.fa { color: #F54F36; }
+
+.milestone .milestone-number { color: #f54f36; }
+
+input[type=submit], input[type=submit]:focus { background-color: #f54f36; }
+
+input.error, textarea.error { border-color: #f54f36; }
+
+.portfolio-filter a span { border-color: #f54f36; }
+
+.portfolio-filter a.current, .portfolio-filter a:hover { color: #F54F36; }
+
+.portfolio-filter a span { border-color: #f54f36; }
+
+.portfolio-filter a span i { color: #F54F36; }
+
+.item-image .item-overlay { background-color: #F54F36; }
+
+.project-page #project_close i { color: #F54F36; border-color: #f54f36; }
+
+.member-social a:hover i.fa-envelope { background: #f54f36; border-color: #f54f36; }
+
+.clients { background-color: #F54F36; }
+
+#close-contact i { color: #F54F36; border-color: #f54f36; }
+
+.owl-buttons > div i { background-color: #f54f36; }
