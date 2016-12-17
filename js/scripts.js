@@ -5,8 +5,8 @@
             play: 8000
         });
         jQuery("html").niceScroll({
-            scrollspeed: 60,
-            mousescrollstep: 40,
+            scrollspeed: 100,
+            mousescrollstep: 80,
             cursorwidth: 7,
             cursorborder: "1px solid rgba(0,0,0,0)",
             cursorcolor: '#000000',
@@ -190,6 +190,7 @@
             $('#services').parallax("30%", 0.1);
             $('#testimonials').parallax("30%", 0.1);
             $('#our-team').parallax("30%", 0.1);
+            $('#skills').parallax("30%", 0.1);
         });
         $("body").fitVids();
 
