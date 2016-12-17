@@ -4,6 +4,8 @@
 
 a { color: #f54f36; }
 
+#show-header { background-color: #f54f36; }
+
 .main-menu li a:hover, .main-menu li.current a { color: #f54f36; }
 
 .main-menu li.current a, .main-menu li:hover a { border-left: 3px solid #f54f36; }
