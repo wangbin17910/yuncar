@@ -188,7 +188,6 @@
         $(window).bind('load',
         function() {
             $('#services').parallax("30%", 0.1);
-            $('#testimonials').parallax("30%", 0.1);
             $('#our-team').parallax("30%", 0.1);
             $('#skills').parallax("30%", 0.1);
         });
@@ -263,12 +262,8 @@
                     }
                     return false;
                 });
-
+                $('#loader').fadeOut();
             })();
-        });
-
-        $(window).load(function() {
-            $('#loader').fadeOut();
         });
     });
 })();
