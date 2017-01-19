@@ -104,6 +104,15 @@ a, a:hover, a:focus { text-decoration: none; outline: 0; cursor: pointer; }
 	float: left;
 }
 
+#header .logo h1{
+	display: inline-block;
+	float: right;
+	color: white;
+    font-family: 微软雅黑;
+    line-height: 55px;
+    margin-left: 10px;
+}
+
 .main-menu li {
 	display: inline-block;
 	border-bottom: 1px solid rgba(255,255,255,.03);
